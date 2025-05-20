@@ -6,7 +6,7 @@ ZGC
 <p align="center">
     <img src="./images/MiG_logo.jpg" width="100%" height="100%">
 </p>
-
+INR
 ## Our MLLM works
 
 🔥🔥🔥 **A Survey on Multimodal Large Language Models**  
