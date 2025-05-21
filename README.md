@@ -21,19 +21,171 @@ Recently, continuous representation methods emerge as novel paradigms that chara
 
 # Continuous Methods (Parametric model)
 
-## Basis Function Representation
-
-- Tatsuya Yokota, Rafal Zdunek, Andrzej Cichocki, and Yukihiko Yamashita. Smooth nonnegative matrix and tensor factorizations for robust multi-way data analysis. Signal Processing, 2015. [<a href="https://www.sciencedirect.com/science/article/pii/S0165168415000614">paper</a>]
-
 <p align="center">
     <img src="imgs/method1.png" width="100%">
 </p>
+
+## Basis Function Representation
+
+- Tatsuya Yokota, Rafal Zdunek, Andrzej Cichocki, and Yukihiko Yamashita. Smooth nonnegative matrix and tensor factorizations for robust multi-way data analysis. Signal Processing, 2015. 
+
+- Otto Debals, Marc Van Barel, and Lieven De Lathauwer. Nonnegative matrix factorization using nonnegative polynomial approximations. IEEE Signal Processing Letters, 2017 
+
+- Masaaki Imaizumi and Kohei Hayashi. Tensor decomposition with smoothness. In International Conference on Machine
+Learning, 2017. 
+
+- Alex A. Gorodetsky and John D. Jakeman. Gradient-based optimization for regression in the functional tensor-train format.
+Journal of Computational Physics, 2018.
+
+- Nikos Kargas and Nicholas D. Sidiropoulos. Nonlinear system identification via tensor completion. In Proceedings of the
+AAAI Conference on Artificial Intelligence, 2020. 
+
+- Nikos Kargas and Nicholas D. Sidiropoulos. Supervised learning and canonical decomposition of multivariate functions. IEEE Transactions on Signal Processing, 2021. 
+
+- Lucas Sort, Laurent Le Brusquet, and Arthur Tenenhaus. Latent functional parafac for modeling multidimensional longitudinal
+data. arXiv, 2410.18696, 2024. 
+
+- Peter Kunkel and Volker Mehrmann. Smooth factorizations of matrix-valued functions and their derivatives. Numerische Mathematik, 1991.
+
+- I. V. Oseledets. Constructive representation of functions in low-rank tensor formats. Constructive Approximation, 2013.
+  
+- Petr Tichavsky and Ondrej Straka. Tensor train approximation of multivariate functions. In 2024 32nd European Signal
+Processing Conference, 2024. 
+
+- Tianqi Chen, Hang Li, Qiang Yang, and Yong Yu. General functional matrix factorization using gradient boosting. In Proceedings of the 30th International Conference on International Conference on Machine Learning, 2013. 
+
+- Behnam Hashemi and Lloyd N. Trefethen. Chebfun in three dimensions. SIAM Journal on Scientific Computing, 2017. 
+
+- Ziming Liu, Yixuan Wang, Sachin Vaidya, Fabian Ruehle, James Halverson, Marin Soljacic, Thomas Y. Hou, and Max Tegmark. KAN: Kolmogorov-Arnold networks. In The Thirteenth International Conference on Learning Representations, 2025. 
+
+- Tongle Wu and Jicong Fan. Smooth tensor product for tensor completion. IEEE Transactions on Image Processing, 2024. 
+
+## Implicit Neural Representation
+
+- Matthew Tancik, Pratul Srinivasan, Ben Mildenhall, Sara Fridovich-Keil, Nithin Raghavan, Utkarsh Singhal, Ravi Ramamoorthi, Jonathan Barron, and Ren Ng. Fourier features let networks learn high-frequency functions in low-dimensional domains. In International Conference on Neural Information Processing Systems, 2020.
+
+- Vincent Sitzmann, Julien Martel, Alexander Bergman, David Lindell, and Gordon Wetzstein. Implicit neural representations
+with periodic activation functions. In International Conference on Neural Information Processing Systems, 2020.
+
+- Rizal Fathony, Anit Kumar Sahu, Devin Willmott, and J Zico Kolter. Multiplicative filter networks. In International
+Conference on Learning Representations, 2021.
+
+- Vishwanath Saragadam, Daniel LeJeune, Jasper Tan, Guha Balakrishnan, Ashok Veeraraghavan, and Richard G. Baraniuk.
+Wire: Wavelet implicit neural representations. In 2023 IEEE/CVF Conference on Computer Vision and Pattern
+Recognition, 2023.
+
+- Jason Chun Lok Li, Chang Liu, Binxiao Huang, and Ngai Wong. Learning spatially collaged fourier bases for implicit neural
+representation. In Proceedings of the AAAI Conference on Artificial Intelligence, 2024.
+
+- Zhen Liu, Hao Zhu, Qi Zhang, Jingde Fu, Weibing Deng, Zhan Ma, Yanwen Guo, and Xun Cao. Finer: Flexible spectral bias
+tuning in implicit neural representation by variable-periodic activation functions. In 2024 IEEE/CVF Conference on
+Computer Vision and Pattern Recognition, 2024.
+
+- Dhananjaya Jayasundara, Heng Zhao, Demetrio Labate, and Vishal M. Patel. PIN: Prolate spheroidal wave function-based
+implicit neural representations. In The Thirteenth International Conference on Learning Representations, 2025.
+
+- Sameera Ramasinghe and Simon Lucey. Beyond periodicity: Towards a unifying framework for activations in coordinatemlps.
+In 17th European Conference on Computer Vision, 2022.
+
+- Kexuan Shi, Xingyu Zhou, and Shuhang Gu. Improved implicit neural representation with Fourier reparameterized training.
+In 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2024.
+
+- Zekun Hao, Arun Mallya, Serge Belongie, and Ming-Yu Liu. Implicit neural representations with levels-of-experts. In
+Advances in Neural Information Processing Systems, 2022.
+
+- Yizhak Ben-Shabat, Chamin Hewa Koneputugodage, Sameera Ramasinghe, and Stephen Gould. Neural experts: Mixture
+of experts for implicit neural representations. In Advances in Neural Information Processing Systems, 2024.
+
+- Kushal Vyas, Ahmed Imtiaz Humayun, Aniket Dashpute, Richard Baraniuk, Ashok Veeraraghavan, and Guha Balakrishnan. Learning transferable features for implicit neural representations. In The Thirty-eighth Annual Conference on Neural Information Processing Systems, 2024.
+
+- Chen Zhang, Steven Tin Sui Luo, Jason Chun Lok Li, Yik Chung Wu, and Ngai Wong. Nonparametric teaching of implicit neural representations. In Proceedings of the 41st International Conference on Machine Learning, 2024.
+
+- Wei Fang, Yuxing Tang, Heng Guo, Mingze Yuan, Tony C.W. Mok, Ke Yan, Jiawen Yao, Xin Chen, Zaiyi Liu, Le Lu, Ling Zhang, and Minfeng Xu. Cycleinr: Cycle implicit neural representation for arbitrary-scale volumetric super-resolution of medical data. In 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2024.
+
+- Vishwanath Saragadam, Jasper Tan, Guha Balakrishnan, Richard G. Baraniuk, and Ashok Veeraraghavan. Miner: Multiscale implicit neural representation. In 17th European Conference on Computer Vision, 2022.
+
+- Jiayi Li, Xile Zhao, Jianli Wang, Chao Wang, and Min Wang. Superpixel-informed implicit neural representation for multi-dimensional data. In 18th European Conference on Computer Vision, 2024.
+
+- Zhicheng Cai, Hao Zhu, Qiu Shen, Xinran Wang, and Xun Cao. Batch normalization alleviates the spectral bias in coordinate networks. In 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2024.
+
+- Chang Yu, Yisi Luo, Kai Ye, Xile Zhao, and Deyu Meng. Cross-frequency implicit neural representation with self-evolving
+parameters. arXiv:2504.10929, 2025.
+
+- Amirhossein Kazerouni, Reza Azad, Alireza Hosseini, Dorit Merhof, and Ulas Bagci. Incode: Implicit neural conditioning
+with prior knowledge embeddings. In 2024 IEEE/CVF Winter Conference on Applications of Computer Vision, 2024.
+
+- Yinbo Chen and Xiaolong Wang. Transformers as meta-learners for implicit neural representations. In European Conference
+on Computer Vision, 2022.
+
+- Matthew Tancik, Ben Mildenhall, Terrance Wang, Divi Schmidt, Pratul P. Srinivasan, Jonathan T. Barron, and Ren Ng.
+Learned initializations for optimizing coordinate-based neural representations. In Proceedings of the IEEE/CVF Conference
+on Computer Vision and Pattern Recognition, 2021.
+
+- Gizem Yuce, Guillermo Ortiz-Jimenez, Beril Besbinar, and Pascal Frossard. A structured dictionary perspective on implicit
+neural representations. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2022.
+
+## Grid Encoding Parametric Model
+
+- Thomas Muller, Alex Evans, Christoph Schied, and Alexander Keller. Instant neural graphics primitives with a multiresolution
+hash encoding. ACM Transactions on Graphics, 2022.
+
+- Anpei Chen, Zexiang Xu, Andreas Geiger, Jingyi Yu, and Hao Su. Tensorf: Tensorial radiance fields. In 17th European Conference on Computer Vision, 2022.
+
+- Cheng Sun, Min Sun, and Hwann-Tzong Chen. Direct voxel grid optimization: Super-fast convergence for radiance fields
+reconstruction. In 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2022.
+
+- Alex Yu, Ruilong Li, Matthew Tancik, Hao Li, Ren Ng, and Angjoo Kanazawa. Plenoctrees for real-time rendering of neural
+radiance fields. In 2021 IEEE/CVF International Conference on Computer Vision, 2021.
+
+- Sara Fridovich-Keil, Alex Yu, Matthew Tancik, Qinhong Chen, Benjamin Recht, and Angjoo Kanazawa. Plenoxels: Radiance fields without neural networks. In 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2022.
+
+- Hao Zhu, Shaowen Xie, Zhen Liu, Fengyi Liu, Qi Zhang, You Zhou, Yi Lin, Zhan Ma, and Xun Cao. Disorder-invariant
+implicit neural representation. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2024.
+
+- Hao Zhu, Fengyi Liu, Qi Zhang, Zhan Ma, and Xun Cao. RHINO: Regularizing the hash-based implicit neural representation. Science China Information Sciences, 2025.
 
 # Continuous Methods (Structural modeling)
 
 <p align="center">
     <img src="imgs/method2.png" width="100%">
 </p>
+
+## Matrix and Tensor Function Decomposition
+
+- Ruofan Liang, Hongyi Sun, and Nandita Vijaykumar. CoordX: Accelerating implicit neural representation with a split MLP architecture. In International Conference on Learning Representations, 2022.
+
+- Yisi Luo, Xile Zhao, Zhemin Li, Michael K. Ng, and Deyu Meng. Low-rank tensor function representation for multidimensional data recovery. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2024.
+
+- Jianli Wang and Xile Zhao. Functional transform-based low-rank tensor factorization for multi-dimensional data recovery. In 18th European Conference on Computer Vision, 2024.
+
+- Yanyi Li, Xi Zhang, Yisi Luo, and Deyu Meng. Deep rank-one tensor functional factorization for multi-dimensional data recovery. In Proceedings of the AAAI Conference on Artificial Intelligence, 2025.
+
+- Sai Karthikeya Vemuri, Tim Buchner, and Joachim Denzler. F-INR: Functional tensor decomposition for implicit neural representations. arXiv:2503.21507, 2025.
+
+- Tong Nie, Guoyang Qin, Wei Ma, and Jian Sun. Spatiotemporal implicit neural representation as a generalized traffic data learner. Transportation Research Part C: Emerging Technologies, 2024.
+
+## Statistical and Bayesian Framework
+
+- Shikai Fang, Qingsong Wen, Yingtao Luo, Shandian Zhe, and Liang Sun. BayOTIDE: Bayesian online multivariate time series imputation with functional decomposition. In Proceedings of the 41st International Conference on Machine Learning, 2024.
+
+- Shikai Fang, Xin Yu, Shibo Li, Zheng Wang, Robert M. Kirby, and Shandian Zhe. Streaming factor trajectory learning for temporal tensor decomposition. In Proceedings of the 37th International Conference on Neural Information Processing
+Systems, 2023.
+
+- Shikai Fang, Xin Yu, Zheng Wang, Shibo Li, Mike Kirby, and Shandian Zhe. Functional Bayesian Tucker decomposition for continuous-indexed tensor data. In The Twelfth International Conference on Learning Representations, 2024.
+
+- Panqi Chen, Lei Cheng, Jianlong Li, Weichang Li, Weiqing Liu, Jiang Bian, and Shikai Fang. Generalized temporal tensor decomposition with rank-revealing latent-ODE. Arxiv: 2502.06164, 2025.
+
+## Continuous Regularization for Structural Modeling
+
+- Jelmer M Wolterink, Jesse C Zwienenberg, and Christoph Brune. Implicit neural representations for deformable image registration. In Proceedings of The 5th International Conference on Medical Imaging with Deep Learning, 2022.
+
+- Zhemin Li, Hongxia Wang, and Deyu Meng. Regularize implicit neural representation by itself. In 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2023.
+
+- Yisi Luo, Xile Zhao, and Deyu Meng. Revisiting nonlocal self-similarity from continuous representation. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025.
+
+- Yisi Luo, Xile Zhao, Kai Ye, and Deyu Meng. Neurtv: Total variation on the neural domain. SIAM Journal on Imaging Sciences, 2025.
+
+- Hyeongjun Heo, Seonghun Oh, Jae Yong Lee, Young Min Kim, and Yonghyeon Lee. Isometric regularization for manifolds of functional data. In The Thirteenth International Conference on Learning Representations, 2025.
 
 # Theoretical Foundations
 
