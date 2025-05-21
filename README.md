@@ -166,6 +166,15 @@ implicit neural representation. IEEE Transactions on Pattern Analysis and Machin
 
 ## Statistical and Bayesian Framework
 
+- Shikai Fang, Qingsong Wen, Yingtao Luo, Shandian Zhe, and Liang Sun. BayOTIDE: Bayesian online multivariate time series imputation with functional decomposition. In Proceedings of the 41st International Conference on Machine Learning, 2024.
+
+- Shikai Fang, Xin Yu, Shibo Li, Zheng Wang, Robert M. Kirby, and Shandian Zhe. Streaming factor trajectory learning for temporal tensor decomposition. In Proceedings of the 37th International Conference on Neural Information Processing
+Systems, 2023.
+
+- Shikai Fang, Xin Yu, Zheng Wang, Shibo Li, Mike Kirby, and Shandian Zhe. Functional Bayesian Tucker decomposition for continuous-indexed tensor data. In The Twelfth International Conference on Learning Representations, 2024.
+
+- Panqi Chen, Lei Cheng, Jianlong Li, Weichang Li, Weiqing Liu, Jiang Bian, and Shikai Fang. Generalized temporal tensor decomposition with rank-revealing latent-ODE. Arxiv: 2502.06164, 2025.
+
 ## Continuous Regularization for Structural Modeling
 
 # Theoretical Foundations
