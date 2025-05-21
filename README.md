@@ -129,6 +129,8 @@ neural representations. In Proceedings of the IEEE/CVF Conference on Computer Vi
 - Thomas Muller, Alex Evans, Christoph Schied, and Alexander Keller. Instant neural graphics primitives with a multiresolution
 hash encoding. ACM Transactions on Graphics, 2022.
 
+- Anpei Chen, Zexiang Xu, Andreas Geiger, Jingyi Yu, and Hao Su. Tensorf: Tensorial radiance fields. In 17th European Conference on Computer Vision, 2022.
+
 - Cheng Sun, Min Sun, and Hwann-Tzong Chen. Direct voxel grid optimization: Super-fast convergence for radiance fields
 reconstruction. In 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2022.
 
