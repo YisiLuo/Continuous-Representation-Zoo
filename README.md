@@ -8,15 +8,13 @@ Recently, continuous representation methods emerge as novel paradigms that chara
     <img src="diagram.png" width="100%">
 </p>
 
-1. ```bibtex
-   @article{smith2020,
-     author  = {Smith, John and Doe, Jane},
-     title   = {A Study on GitHub References},
-     journal = {Journal of Open Source},
-     year    = {2020},
-     volume  = {5},
-     pages   = {100-120}
-   }
+```bibtex
+@article{smith2020,
+ author  = {Yisi Luo, Xile Zhao, Deyu Meng},
+ title   = {Continuous Representation Methods, Theories, and Applications: An Overview and Perspectives},
+ journal = {arXiv:},
+ year    = {2025}
+}
 
 # Continuous Methods (Parametric model)
 
