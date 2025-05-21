@@ -23,38 +23,37 @@ Recently, continuous representation methods emerge as novel paradigms that chara
 
 ## Basis Function Representation
 
-- Tatsuya Yokota, Rafal Zdunek, Andrzej Cichocki, and Yukihiko Yamashita. Smooth nonnegative matrix and tensor factorizations for robust multi-way data analysis. Signal Processing, 2015. [<a href="https://www.sciencedirect.com/science/article/pii/S0165168415000614">paper</a>]
+- Tatsuya Yokota, Rafal Zdunek, Andrzej Cichocki, and Yukihiko Yamashita. Smooth nonnegative matrix and tensor factorizations for robust multi-way data analysis. Signal Processing, 2015. 
 
-- Otto Debals, Marc Van Barel, and Lieven De Lathauwer. Nonnegative matrix factorization using nonnegative polynomial approximations. IEEE Signal Processing Letters, 2017 [<a href="https://www.sciencedirect.com/science/article/pii/S0165168415000614">paper</a>]
+- Otto Debals, Marc Van Barel, and Lieven De Lathauwer. Nonnegative matrix factorization using nonnegative polynomial approximations. IEEE Signal Processing Letters, 2017 
 
 - Masaaki Imaizumi and Kohei Hayashi. Tensor decomposition with smoothness. In International Conference on Machine
-Learning, 2017. [<a href="https://www.sciencedirect.com/science/article/pii/S0165168415000614">paper</a>]
+Learning, 2017. 
 
 - Alex A. Gorodetsky and John D. Jakeman. Gradient-based optimization for regression in the functional tensor-train format.
-Journal of Computational Physics, 2018. [<a href="https://www.sciencedirect.com/science/article/pii/S0165168415000614">paper</a>]
-
+Journal of Computational Physics, 2018. 
 - Nikos Kargas and Nicholas D. Sidiropoulos. Nonlinear system identification via tensor completion. In Proceedings of the
-AAAI Conference on Artificial Intelligence, 2020. [<a href="https://www.sciencedirect.com/science/article/pii/S0165168415000614">paper</a>]
+AAAI Conference on Artificial Intelligence, 2020. 
 
-- Nikos Kargas and Nicholas D. Sidiropoulos. Supervised learning and canonical decomposition of multivariate functions. IEEE Transactions on Signal Processing, 2021. [<a href="https://ieeexplore.ieee.org/document/9340610">paper</a>]
+- Nikos Kargas and Nicholas D. Sidiropoulos. Supervised learning and canonical decomposition of multivariate functions. IEEE Transactions on Signal Processing, 2021. 
 
 - Lucas Sort, Laurent Le Brusquet, and Arthur Tenenhaus. Latent functional parafac for modeling multidimensional longitudinal
-data. arXiv, 2410.18696, 2024. [<a href="https://www.sciencedirect.com/science/article/pii/S0165168415000614">paper</a>]
+data. arXiv, 2410.18696, 2024. 
 
-- Peter Kunkel and Volker Mehrmann. Smooth factorizations of matrix-valued functions and their derivatives. Numerische Mathematik, 1991. [<a href="https://www.sciencedirect.com/science/article/pii/S0165168415000614">paper</a>]
+- Peter Kunkel and Volker Mehrmann. Smooth factorizations of matrix-valued functions and their derivatives. Numerische Mathematik, 1991.
 
-- I. V. Oseledets. Constructive representation of functions in low-rank tensor formats. Constructive Approximation, 2013. [<a href="https://www.sciencedirect.com/science/article/pii/S0165168415000614">paper</a>]
+- I. V. Oseledets. Constructive representation of functions in low-rank tensor formats. Constructive Approximation, 2013.
+  
+- Petr Tichavsky and Ondrej Straka. Tensor train approximation of multivariate functions. In 2024 32nd European Signal
+Processing Conference, 2024. 
 
-- Petr Tichavsky and Ondrej Straka. Tensor train approximation of multivariate functions. In 2024 32nd European Signal
-Processing Conference, 2024. [<a href="https://www.sciencedirect.com/science/article/pii/S0165168415000614">paper</a>]
+- Tianqi Chen, Hang Li, Qiang Yang, and Yong Yu. General functional matrix factorization using gradient boosting. In Proceedings of the 30th International Conference on International Conference on Machine Learning, 2013. 
 
-- Tianqi Chen, Hang Li, Qiang Yang, and Yong Yu. General functional matrix factorization using gradient boosting. In Proceedings of the 30th International Conference on International Conference on Machine Learning, 2013. [<a href="https://www.sciencedirect.com/science/article/pii/S0165168415000614">paper</a>]
+- Behnam Hashemi and Lloyd N. Trefethen. Chebfun in three dimensions. SIAM Journal on Scientic Computing, 2017. 
 
-- Behnam Hashemi and Lloyd N. Trefethen. Chebfun in three dimensions. SIAM Journal on Scientic Computing, 2017. [<a href="https://www.sciencedirect.com/science/article/pii/S0165168415000614">paper</a>]
+- Ziming Liu, Yixuan Wang, Sachin Vaidya, Fabian Ruehle, James Halverson, Marin Soljacic, Thomas Y. Hou, and Max Tegmark. KAN: Kolmogorov-Arnold networks. In The Thirteenth International Conference on Learning Representations, 2025. 
 
-- Ziming Liu, Yixuan Wang, Sachin Vaidya, Fabian Ruehle, James Halverson, Marin Soljacic, Thomas Y. Hou, and Max Tegmark. KAN: Kolmogorov-Arnold networks. In The Thirteenth International Conference on Learning Representations, 2025. [<a href="https://www.sciencedirect.com/science/article/pii/S0165168415000614">paper</a>]
-
-- Tongle Wu and Jicong Fan. Smooth tensor product for tensor completion. IEEE Transactions on Image Processing, 2024. [<a href="https://www.sciencedirect.com/science/article/pii/S0165168415000614">paper</a>]
+- Tongle Wu and Jicong Fan. Smooth tensor product for tensor completion. IEEE Transactions on Image Processing, 2024. 
 
 ## Implicit Neural Representation
 
