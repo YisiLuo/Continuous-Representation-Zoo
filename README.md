@@ -21,6 +21,10 @@ Recently, continuous representation methods emerge as novel paradigms that chara
 
 # Continuous Methods (Parametric model)
 
+<p align="center">
+    <img src="imgs/method1.png" width="100%">
+</p>
+
 ## Basis Function Representation
 
 - Tatsuya Yokota, Rafal Zdunek, Andrzej Cichocki, and Yukihiko Yamashita. Smooth nonnegative matrix and tensor factorizations for robust multi-way data analysis. Signal Processing, 2015. 
@@ -117,14 +121,10 @@ on Computer Vision, 2022.
 Learned initializations for optimizing coordinate-based neural representations. In Proceedings of the IEEE/CVF Conference
 on Computer Vision and Pattern Recognition, 2021.
 
-- Gizem Yuce, Guillermo Ortiz-Jimenez, Beril Besbinar, and Pascal Frossard. A structured dictionary perspective on implicit
+- Gizem Yuce, Guillermo Ortiz-Jimenez, Beril Besbinar, and Pascal Frossard. A structured dictionary perspective on implicit
 neural representations. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2022.
 
 ## Grid Encoding Parametric Model
-
-<p align="center">
-    <img src="imgs/method1.png" width="100%">
-</p>
 
 # Continuous Methods (Structural modeling)
 
