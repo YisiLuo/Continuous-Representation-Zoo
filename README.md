@@ -1,4 +1,4 @@
-# Continuous-Representation-Zoo-zgc-branch
+# Continuous-Representation-Zoo
 
 This project summarizes the papers and studies introduced in the review: Continuous Representation Methods, Theories, and Applications: An Overview and Perspectives 📖
 
@@ -22,6 +22,8 @@ Recently, continuous representation methods emerge as novel paradigms that chara
 # Continuous Methods (Parametric model)
 
 ## Basis Function Representation
+
+- Tatsuya Yokota, Rafal Zdunek, Andrzej Cichocki, and Yukihiko Yamashita. Smooth nonnegative matrix and tensor factorizations for robust multi-way data analysis. Signal Processing, 2015.
 
 <p align="center">
     <img src="imgs/method1.png" width="100%">
