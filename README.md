@@ -49,7 +49,7 @@ Processing Conference, 2024.
 
 - Tianqi Chen, Hang Li, Qiang Yang, and Yong Yu. General functional matrix factorization using gradient boosting. In Proceedings of the 30th International Conference on International Conference on Machine Learning, 2013. 
 
-- Behnam Hashemi and Lloyd N. Trefethen. Chebfun in three dimensions. SIAM Journal on Scientic Computing, 2017. 
+- Behnam Hashemi and Lloyd N. Trefethen. Chebfun in three dimensions. SIAM Journal on Scientific Computing, 2017. 
 
 - Ziming Liu, Yixuan Wang, Sachin Vaidya, Fabian Ruehle, James Halverson, Marin Soljacic, Thomas Y. Hou, and Max Tegmark. KAN: Kolmogorov-Arnold networks. In The Thirteenth International Conference on Learning Representations, 2025. 
 
