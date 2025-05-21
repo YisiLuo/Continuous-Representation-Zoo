@@ -33,8 +33,8 @@ Learning, 2017. [<a href="https://www.sciencedirect.com/science/article/pii/S016
 - Alex A. Gorodetsky and John D. Jakeman. Gradient-based optimization for regression in the functional tensor-train format.
 Journal of Computational Physics, 2018. [<a href="https://www.sciencedirect.com/science/article/pii/S0165168415000614">paper</a>]
 
-- Nikos Kargas and Nicholas D. Sidiropoulos. Nonlinear system identication via tensor completion. In Proceedings of the
-AAAI Conference on Articial Intelligence, 2020. [<a href="https://www.sciencedirect.com/science/article/pii/S0165168415000614">paper</a>]
+- Nikos Kargas and Nicholas D. Sidiropoulos. Nonlinear system identiffcation via tensor completion. In Proceedings of the
+AAAI Conference on Artiffcial Intelligence, 2020. [<a href="https://www.sciencedirect.com/science/article/pii/S0165168415000614">paper</a>]
 
 - Nikos Kargas and Nicholas D. Sidiropoulos. Supervised learning and canonical decomposition of multivariate functions. IEEE Transactions on Signal Processing, 2021. [<a href="https://ieeexplore.ieee.org/document/9340610">paper</a>]
 
