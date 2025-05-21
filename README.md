@@ -25,6 +25,16 @@ Recently, continuous representation methods emerge as novel paradigms that chara
 
 - Tatsuya Yokota, Rafal Zdunek, Andrzej Cichocki, and Yukihiko Yamashita. Smooth nonnegative matrix and tensor factorizations for robust multi-way data analysis. Signal Processing, 2015. [<a href="https://www.sciencedirect.com/science/article/pii/S0165168415000614">paper</a>]
 
+- Nikos Kargas and Nicholas D. Sidiropoulos. Supervised learning and canonical decomposition of multivariate functions. IEEE Transactions on Signal Processing, 2021. [<a href="https://ieeexplore.ieee.org/document/9340610">paper</a>]
+
+- Otto Debals, Marc Van Barel, and Lieven De Lathauwer. Nonnegative matrix factorization using nonnegative polynomial
+approximations. IEEE Signal Processing Letters, 24(7):948{952, 2017
+
+- Masaaki Imaizumi and Kohei Hayashi. Tensor decomposition with smoothness. In International Conference on Machine
+Learning, volume 70, pages 1597{1606, 2017.
+
+- 
+
 ## Implicit Neural Representation
 
 ## Grid Encoding Parametric Model
