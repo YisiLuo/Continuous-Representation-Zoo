@@ -23,7 +23,7 @@ Recently, continuous representation methods emerge as novel paradigms that chara
 
 ## Basis Function Representation
 
-- Tatsuya Yokota, Rafal Zdunek, Andrzej Cichocki, and Yukihiko Yamashita. Smooth nonnegative matrix and tensor factorizations for robust multi-way data analysis. Signal Processing, 2015.
+- Tatsuya Yokota, Rafal Zdunek, Andrzej Cichocki, and Yukihiko Yamashita. Smooth nonnegative matrix and tensor factorizations for robust multi-way data analysis. Signal Processing, 2015. [<a href="https://www.sciencedirect.com/science/article/pii/S0165168415000614">paper</a>]
 
 <p align="center">
     <img src="imgs/method1.png" width="100%">
