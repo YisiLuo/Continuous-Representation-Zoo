@@ -9,12 +9,12 @@ Recently, continuous representation methods emerge as novel paradigms that chara
 </p>
 
 ```bibtex
-@article{smith2020,
- author  = {Yisi Luo, Xile Zhao, Deyu Meng},
- title   = {Continuous Representation Methods, Theories, and Applications: An Overview and Perspectives},
- journal = {arXiv:},
- year    = {2025}
-}
+    @article{smith2020,
+     author  = {Yisi Luo, Xile Zhao, Deyu Meng},
+     title   = {Continuous Representation Methods, Theories, and Applications: An Overview and Perspectives},
+     journal = {arXiv:},
+     year    = {2025}
+    }
 
 # Continuous Methods (Parametric model)
 
