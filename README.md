@@ -14,7 +14,7 @@ Recently, continuous representation methods emerge as novel paradigms that chara
      title   = {Continuous Representation Methods, Theories, and Applications: An Overview and Perspectives},
      journal = {arXiv:},
      year    = {2025}
-    }
+    }'''
 
 # Continuous Methods (Parametric model)
 
