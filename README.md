@@ -8,7 +8,7 @@ Recently, continuous representation methods emerge as novel paradigms that chara
     <img src="diagram.png" width="100%">
 </p>
 
-1. ```bibtex
+ ```bibtex
     @article{arXiv2025Luo,
      author  = {Yisi Luo, Xile Zhao, Deyu Meng},
      title   = {Continuous Representation Methods, Theories, and Applications: An Overview and Perspectives},
