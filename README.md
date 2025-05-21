@@ -126,6 +126,23 @@ neural representations. In Proceedings of the IEEE/CVF Conference on Computer Vi
 
 ## Grid Encoding Parametric Model
 
+- Thomas Muller, Alex Evans, Christoph Schied, and Alexander Keller. Instant neural graphics primitives with a multiresolution
+hash encoding. ACM Transactions on Graphics, 2022.
+
+- Cheng Sun, Min Sun, and Hwann-Tzong Chen. Direct voxel grid optimization: Super-fast convergence for radiance elds
+reconstruction. In 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2022.
+
+- Alex Yu, Ruilong Li, Matthew Tancik, Hao Li, Ren Ng, and Angjoo Kanazawa. Plenoctrees for real-time rendering of neural
+radiance fields. In 2021 IEEE/CVF International Conference on Computer Vision, 2021.
+
+- Sara Fridovich-Keil, Alex Yu, Matthew Tancik, Qinhong Chen, Benjamin Recht, and Angjoo Kanazawa. Plenoxels: Radiance
+fields without neural networks. In 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2022.
+
+- Hao Zhu, Shaowen Xie, Zhen Liu, Fengyi Liu, Qi Zhang, You Zhou, Yi Lin, Zhan Ma, and Xun Cao. Disorder-invariant
+implicit neural representation. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2024.
+
+- Hao Zhu, Fengyi Liu, Qi Zhang, Zhan Ma, and Xun Cao. RHINO: Regularizing the hash-based implicit neural representation. Science China Information Sciences, 2025.
+
 # Continuous Methods (Structural modeling)
 
 <p align="center">
