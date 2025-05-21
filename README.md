@@ -160,7 +160,7 @@ implicit neural representation. IEEE Transactions on Pattern Analysis and Machin
 
 - Yanyi Li, Xi Zhang, Yisi Luo, and Deyu Meng. Deep rank-one tensor functional factorization for multi-dimensional data recovery. In Proceedings of the AAAI Conference on Artificial Intelligence, 2025.
 
-- Sai Karthikeya Vemuri, Tim Buchner, and Joachim Denzler. F-INR: Functional tensor decomposition for implicit neural representations. arXiv:2503.21507, 2025.
+- Sai Karthikeya Vemuri, Tim Buchner, and Joachim Denzler. F-INR: Functional tensor decomposition for implicit neural representations. arXiv:2503.21507, 2025.
 
 - Tong Nie, Guoyang Qin, Wei Ma, and Jian Sun. Spatiotemporal implicit neural representation as a generalized traffic data learner. Transportation Research Part C: Emerging Technologies, 2024.
 
