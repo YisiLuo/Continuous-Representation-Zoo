@@ -31,7 +31,8 @@ Recently, continuous representation methods emerge as novel paradigms that chara
 Learning, 2017. 
 
 - Alex A. Gorodetsky and John D. Jakeman. Gradient-based optimization for regression in the functional tensor-train format.
-Journal of Computational Physics, 2018. 
+Journal of Computational Physics, 2018.
+
 - Nikos Kargas and Nicholas D. Sidiropoulos. Nonlinear system identification via tensor completion. In Proceedings of the
 AAAI Conference on Artificial Intelligence, 2020. 
 
@@ -56,6 +57,68 @@ Processing Conference, 2024.
 - Tongle Wu and Jicong Fan. Smooth tensor product for tensor completion. IEEE Transactions on Image Processing, 2024. 
 
 ## Implicit Neural Representation
+
+- Matthew Tancik, Pratul Srinivasan, Ben Mildenhall, Sara Fridovich-Keil, Nithin Raghavan, Utkarsh Singhal, Ravi Ramamoorthi, Jonathan Barron, and Ren Ng. Fourier features let networks learn high-frequency functions in low-dimensional domains. In International Conference on Neural Information Processing Systems, 2020.
+
+- Vincent Sitzmann, Julien Martel, Alexander Bergman, David Lindell, and Gordon Wetzstein. Implicit neural representations
+with periodic activation functions. In International Conference on Neural Information Processing Systems, 2020.
+
+- Rizal Fathony, Anit Kumar Sahu, Devin Willmott, and J Zico Kolter. Multiplicative filter networks. In International
+Conference on Learning Representations, 2021.
+
+- Vishwanath Saragadam, Daniel LeJeune, Jasper Tan, Guha Balakrishnan, Ashok Veeraraghavan, and Richard G. Baraniuk.
+Wire: Wavelet implicit neural representations. In 2023 IEEE/CVF Conference on Computer Vision and Pattern
+Recognition, 2023.
+
+- Jason Chun Lok Li, Chang Liu, Binxiao Huang, and Ngai Wong. Learning spatially collaged fourier bases for implicit neural
+representation. In Proceedings of the AAAI Conference on Artificial Intelligence, 2024.
+
+- Zhen Liu, Hao Zhu, Qi Zhang, Jingde Fu, Weibing Deng, Zhan Ma, Yanwen Guo, and Xun Cao. Finer: Flexible spectral bias
+tuning in implicit neural representation by variable-periodic activation functions. In 2024 IEEE/CVF Conference on
+Computer Vision and Pattern Recognition, 2024.
+
+- Dhananjaya Jayasundara, Heng Zhao, Demetrio Labate, and Vishal M. Patel. PIN: Prolate spheroidal wave function-based
+implicit neural representations. In The Thirteenth International Conference on Learning Representations, 2025.
+
+- Sameera Ramasinghe and Simon Lucey. Beyond periodicity: Towards a unifying framework for activations in coordinatemlps.
+In 17th European Conference on Computer Vision, 2022.
+
+- Kexuan Shi, Xingyu Zhou, and Shuhang Gu. Improved implicit neural representation with Fourier reparameterized training.
+In 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2024.
+
+- Zekun Hao, Arun Mallya, Serge Belongie, and Ming-Yu Liu. Implicit neural representations with levels-of-experts. In
+Advances in Neural Information Processing Systems, 2022.
+
+- Yizhak Ben-Shabat, Chamin Hewa Koneputugodage, Sameera Ramasinghe, and Stephen Gould. Neural experts: Mixture
+of experts for implicit neural representations. In Advances in Neural Information Processing Systems, 2024.
+
+- Kushal Vyas, Ahmed Imtiaz Humayun, Aniket Dashpute, Richard Baraniuk, Ashok Veeraraghavan, and Guha Balakrishnan. Learning transferable features for implicit neural representations. In The Thirty-eighth Annual Conference on Neural Information Processing Systems, 2024.
+
+- Chen Zhang, Steven Tin Sui Luo, Jason Chun Lok Li, Yik Chung Wu, and Ngai Wong. Nonparametric teaching of implicit neural representations. In Proceedings of the 41st International Conference on Machine Learning, 2024.
+
+- Wei Fang, Yuxing Tang, Heng Guo, Mingze Yuan, Tony C.W. Mok, Ke Yan, Jiawen Yao, Xin Chen, Zaiyi Liu, Le Lu, Ling Zhang, and Minfeng Xu. Cycleinr: Cycle implicit neural representation for arbitrary-scale volumetric super-resolution of medical data. In 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2024.
+
+- Vishwanath Saragadam, Jasper Tan, Guha Balakrishnan, Richard G. Baraniuk, and Ashok Veeraraghavan. Miner: Multiscale implicit neural representation. In 17th European Conference on Computer Vision, 2022.
+
+- Jiayi Li, Xile Zhao, Jianli Wang, Chao Wang, and Min Wang. Superpixel-informed implicit neural representation for multi-dimensional data. In 18th European Conference on Computer Vision, 2024.
+
+- Zhicheng Cai, Hao Zhu, Qiu Shen, Xinran Wang, and Xun Cao. Batch normalization alleviates the spectral bias in coordinate networks. In 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2024.
+
+- Chang Yu, Yisi Luo, Kai Ye, Xile Zhao, and Deyu Meng. Cross-frequency implicit neural representation with self-evolving
+parameters. arXiv:2504.10929, 2025.
+
+- Amirhossein Kazerouni, Reza Azad, Alireza Hosseini, Dorit Merhof, and Ulas Bagci. Incode: Implicit neural conditioning
+with prior knowledge embeddings. In 2024 IEEE/CVF Winter Conference on Applications of Computer Vision, 2024.
+
+- Yinbo Chen and Xiaolong Wang. Transformers as meta-learners for implicit neural representations. In European Conference
+on Computer Vision, 2022.
+
+- Matthew Tancik, Ben Mildenhall, Terrance Wang, Divi Schmidt, Pratul P. Srinivasan, Jonathan T. Barron, and Ren Ng.
+Learned initializations for optimizing coordinate-based neural representations. In Proceedings of the IEEE/CVF Conference
+on Computer Vision and Pattern Recognition, 2021.
+
+- Gizem Yuce, Guillermo Ortiz-Jimenez, Beril Besbinar, and Pascal Frossard. A structured dictionary perspective on implicit
+neural representations. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2022.
 
 ## Grid Encoding Parametric Model
 
