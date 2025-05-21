@@ -177,6 +177,16 @@ Systems, 2023.
 
 ## Continuous Regularization for Structural Modeling
 
+- Jelmer M Wolterink, Jesse C Zwienenberg, and Christoph Brune. Implicit neural representations for deformable image registration. In Proceedings of The 5th International Conference on Medical Imaging with Deep Learning, 2022.
+
+- Zhemin Li, Hongxia Wang, and Deyu Meng. Regularize implicit neural representation by itself. In 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2023.
+
+- Yisi Luo, Xile Zhao, and Deyu Meng. Revisiting nonlocal self-similarity from continuous representation. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025.
+
+- Yisi Luo, Xile Zhao, Kai Ye, and Deyu Meng. Neurtv: Total variation on the neural domain. SIAM Journal on Imaging Sciences, 2025.
+
+- Hyeongjun Heo, Seonghun Oh, Jae Yong Lee, Young Min Kim, and Yonghyeon Lee. Isometric regularization for manifolds of functional data. In The Thirteenth International Conference on Learning Representations, 2025.
+
 # Theoretical Foundations
 
 <p align="center">
