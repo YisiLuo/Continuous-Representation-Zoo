@@ -1,4 +1,4 @@
-# Continuous-Representation-Zoo
+# Continuous-Representation-Zoo (ZGC Branch)
 
 This project summarizes the papers and studies introduced in the review: Continuous Representation Methods, Theories, and Applications: An Overview and Perspectives 📖
 
@@ -195,8 +195,24 @@ Systems, 2023.
 
 # Applications
 
+
+
 <p align="center">
     <img src="imgs/application.png" width="100%">
 </p>
 
 
+## Vision and Graphics
+- Jeong Joon Park, Peter Florence, Julian Straub, Richard Newcombe, and Steven Lovegrove. Deepsdf: Learning continuous
+signed distance functions for shape representation. In 2019 IEEE/CVF Conference on Computer Vision and Pattern
+Recognition, 2019.
+
+- Vincent Sitzmann, Julien Martel, Alexander Bergman, David Lindell, and Gordon Wetzstein. Implicit neural representations
+with periodic activation functions. In International Conference on Neural Information Processing Systems, 2020
+
+
+## Scientific Computing
+
+## Medical Imaging and Bioinformatic
+
+## Geosciences and Remote Sensing
