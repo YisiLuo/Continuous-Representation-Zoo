@@ -1,4 +1,4 @@
-# Continuous-Representation-Zoo
+# Continuous-Representation-Zoo (ZGC Branch)
 
 This project summarizes the papers and studies introduced in the review: Continuous Representation Methods, Theories, and Applications: An Overview and Perspectives 📖
 
