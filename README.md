@@ -150,6 +150,24 @@ implicit neural representation. IEEE Transactions on Pattern Analysis and Machin
     <img src="imgs/method2.png" width="100%">
 </p>
 
+## Matrix and Tensor Function Decomposition
+
+- Ruofan Liang, Hongyi Sun, and Nandita Vijaykumar. CoordX: Accelerating implicit neural representation with a split MLP architecture. In International Conference on Learning Representations, 2022.
+
+- Yisi Luo, Xile Zhao, Zhemin Li, Michael K. Ng, and Deyu Meng. Low-rank tensor function representation for multidimensional data recovery. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2024.
+
+- Jianli Wang and Xile Zhao. Functional transform-based low-rank tensor factorization for multi-dimensional data recovery. In 18th European Conference on Computer Vision, 2024.
+
+- Yanyi Li, Xi Zhang, Yisi Luo, and Deyu Meng. Deep rank-one tensor functional factorization for multi-dimensional data recovery. In Proceedings of the AAAI Conference on Artificial Intelligence, 2025.
+
+- Sai Karthikeya Vemuri, Tim Buchner, and Joachim Denzler. F-INR: Functional tensor decomposition for implicit neural representations. arXiv:2503.21507, 2025.
+
+- Tong Nie, Guoyang Qin, Wei Ma, and Jian Sun. Spatiotemporal implicit neural representation as a generalized traffic data learner. Transportation Research Part C: Emerging Technologies, 2024.
+
+## Statistical and Bayesian Framework
+
+## Continuous Regularization for Structural Modeling
+
 # Theoretical Foundations
 
 <p align="center">
