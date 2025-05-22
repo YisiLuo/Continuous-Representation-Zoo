@@ -203,16 +203,213 @@ Systems, 2023.
 
 
 ## Vision and Graphics
-- Jeong Joon Park, Peter Florence, Julian Straub, Richard Newcombe, and Steven Lovegrove. Deepsdf: Learning continuous
-signed distance functions for shape representation. In 2019 IEEE/CVF Conference on Computer Vision and Pattern
-Recognition, 2019.
 
-- Vincent Sitzmann, Julien Martel, Alexander Bergman, David Lindell, and Gordon Wetzstein. Implicit neural representations
-with periodic activation functions. In International Conference on Neural Information Processing Systems, 2020
+- Alex Yu, Ruilong Li, Matthew Tancik, Hao Li, Ren Ng, and Angjoo Kanazawa. Plenoctrees for real-time rendering of neural radiance fields. In 2021 IEEE/CVF International Conference on Computer Vision, 2021.
+
+- Anpei Chen, Zexiang Xu, Andreas Geiger, Jingyi Yu, and Hao Su. Tensorf: Tensorial radiance fields. In 17th European Conference on Computer Vision, 2022.
+
+- Ben Mildenhall, Pratul P. Srinivasan, Matthew Tancik, Jonathan T. Barron, Ravi Ramamoorthi, and Ren Ng. NeRF: Representing scenes as neural radiance fields for view synthesis. In European Conference on Computer Vision, 2020.
+
+- Chiyu Jiang, Avneesh Sud, Ameesh Makadia, Jingwei Huang, Matthias Nießner, and Thomas Funkhouser. Local implicit grid representations for 3d scenes. In 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2020.
+
+- Daniele Grattarola and Pierre Vandergheynst. Generalised implicit neural representations. In Proceedings of the 36th International Conference on Neural Information Processing Systems, 2022.
+
+- Hao Chen, Bo He, Hanyu Wang, Yixuan Ren, Ser Nam Lim, and Abhinav Shrivastava. NeRV: Neural representations for videos. In Advances in Neural Information Processing Systems, 2021.
+
+- Hao Yan, Zhihui Ke, Xiaobo Zhou, Tie Qiu, Xidong Shi, and Dadong Jiang. DS-NeRV: Implicit neural video representation with decomposed static and dynamic codes. In 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2024.
+
+- Jeong Joon Park, Peter Florence, Julian Straub, Richard Newcombe, and Steven Lovegrove. Deepsdf: Learning continuous signed distance functions for shape representation. In 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2019.
+
+- Jiaxiang Tang, Xiaokang Chen, Jingbo Wang, and Gang Zeng. Compressible-composable NeRF via rank-residual decomposition. In Advances in Neural Information Processing Systems, 2022.
+
+- Julian Chibane, Thiemo Alldieck, and Gerard Pons-Moll. Implicit functions in feature space for 3d shape reconstruction and completion. In 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2020.
+
+- Kyle Genova, Forrester Cole, Daniel Vlasic, Aaron Sarna, William Freeman, and Thomas Funkhouser. Learning shape templates with structured implicit functions. In 2019 IEEE/CVF International Conference on Computer Vision, 2019.
+
+- Lars Mescheder, Michael Oechsle, Michael Niemeyer, Sebastian Nowozin, and Andreas Geiger. Occupancy networks: Learning 3d reconstruction in function space. In 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2019.
+
+- Lior Yariv, Jiatao Gu, Yoni Kasten, and Yaron Lipman. Volume rendering of neural implicit surfaces. In Advances in Neural Information Processing Systems, 2021.
+
+- Luiz Schirmer, Tiago Novello, Vin ́ıcius da Silva, Guilherme Schardong, Daniel Perazzo, He ́lio Lopes, Nuno Gonc ̧alves, and Luiz Velho. Geometric implicit neural representations for signed distance functions. Computers & Graphics, 2024.
+
+- Matthew Tancik, Pratul Srinivasan, Ben Mildenhall, Sara Fridovich-Keil, Nithin Raghavan, Utkarsh Singhal, Ravi Ramamoorthi, Jonathan Barron, and Ren Ng. Fourier features let networks learn high frequency functions in low dimensional domains. In International Conference on Neural Information Processing Systems, 2020.
+
+- Michael Niemeyer, Lars Mescheder, Michael Oechsle, and Andreas Geiger. Differentiable volumetric rendering: Learning implicit 3d representations without 3d supervision. In 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2020.
+
+- Mingyuan Yao, Yukang Huo, Yang Ran, Qingbin Tian, Ruifeng Wang, and Haihua Wang. Neural radiance field-based visual rendering: A comprehensive review. arXiv:2404.00714, 2024.
+
+- Sara Fridovich-Keil, Alex Yu, Matthew Tancik, Qinhong Chen, Benjamin Recht, and Angjoo Kanazawa. Plenoxels: Radiance fields without neural networks. In 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2022.
+
+- Sara Fridovich-Keil, Giacomo Meanti, Frederik Rahbæk Warburg, Benjamin Recht, and Angjoo Kanazawa. K-planes: Explicit radiance fields in space, time, and appearance. In 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2023.
+
+- Seonghyeon Nam, Marcus A. Brubaker, and Michael S. Brown. Neural image representations for multi-image fusion and layer separation. In 17th European Conference on Computer Vision, 2022.
+
+- Shengxiang Hu, Huaijiang Sun, Dong Wei, Xiaoning Sun, and Jin Wang. Continuous heatmap regression for pose estimation via implicit neural representation. In The Thirty-eighth Annual Conference on Neural Information Processing Systems, 2024.
+
+- Shuzhou Yang, Moxuan Ding, Yanmin Wu, Zihan Li, and Jian Zhang. Implicit neural representation for cooperative lowlight image enhancement. In 2023 IEEE/CVF International Conference on Computer Vision, 2023.
+
+- Thomas M ̈uller, Alex Evans, Christoph Schied, and Alexander Keller. Instant neural graphics primitives with a multiresolution hash encoding. ACM Transactions on Graphics, 2022.
+
+- Tianjing Zhang, Yuhui Quan, and Hui Ji. Cross-scale self-supervised blind image deblurring via implicit neural representation. In Advances in Neural Information Processing Systems, 2024.
+
+- Vincent Sitzmann, Julien Martel, Alexander Bergman, David Lindell, and Gordon Wetzstein. Implicit neural representations with periodic activation functions. In International Conference on Neural Information Processing Systems, 2020.
+
+- Vincent Sitzmann, Michael Zollh¨ofer, and Gordon Wetzstein. Scene representation networks: continuous 3d-structure-aware neural scene representations. In Proceedings of the 33rd International Conference on Neural Information Processing Systems, 2019.
+
+- Wenbo Zhao, Xianming Liu, Deming Zhai, Junjun Jiang, and Xiangyang Ji. Self-supervised arbitrary-scale implicit point clouds upsampling. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023.
+
+- Xiang Chen, Jinshan Pan, and Jiangxin Dong. Bidirectional multi-scale implicit neural representations for image deraining. In 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2024. 
+
+- Xinyue Xia, Gal Mishne, and Yusu Wang. Implicit graphon neural representation. In Proceedings of The 26th International Conference on Artificial Intelligence and Statistics, 2023.
+
+- Yinbo Chen, Sifei Liu, and Xiaolong Wang. Learning continuous image representation with local implicit image function. In 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2021.
+
+- Zeyuan Chen, Yinbo Chen, Jingwen Liu, Xingqian Xu, Vidit Goel, Zhangyang Wang, Humphrey Shi, and Xiaolong Wang. Videoinr: Learning video implicit neural representation for continuous space-time super-resolution. In 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2022.
+
+- Zhiqin Chen and Hao Zhang. Learning implicit fields for generative shape modeling. In 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2019. 
+
+- Ziheng Cheng, Yucheng Ding, Chunhui Qu, and Bo Chen. Implicit neural representation with imaging geometry for sar target recognition. IEEE Transactions on Aerospace and Electronic Systems, 2025.
+
+- Zizhang Li, Mengmeng Wang, Huaijin Pi, Kechun Xu, Jianbiao Mei, and Yong Liu. E-NeRV: Expedite neural video representation with disentangled spatial-temporal context. In 17th European Conference on Computer Vision, 2022.
 
 
 ## Scientific Computing
 
+- George Em Karniadakis, Ioannis G. Kevrekidis, Lu Lu, Paris Perdikaris, Sifan Wang, and Liu Yang. Physics-informed machine learning. Nature Reviews Physics, 2021.
+
+- M. Raissi, P. Perdikaris, and G.E. Karniadakis. Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations. Journal of Computational Physics, 2019.
+
+- Vincent Sitzmann, Julien Martel, Alexander Bergman, David Lindell, and Gordon Wetzstein. Implicit neural representations with periodic activation functions. In International Conference on Neural Information Processing Systems, 2020.
+
+- Matthew Tancik, Pratul Srinivasan, Ben Mildenhall, Sara Fridovich-Keil, Nithin Raghavan, Utkarsh Singhal, Ravi Ramamoorthi, Jonathan Barron, and Ren Ng. Fourier features let networks learn high frequency functions in low dimensional domains. In International Conference on Neural Information Processing Systems, 2020.
+
+- Haoteng Hu, Lehua Qi, and Xujiang Chao. Physics-informed neural networks (PINN) for computational solid mechanics: Numerical frameworks and applications. Thin-Walled Structures, 2024.
+
+- George Em Karniadakis, Ioannis G. Kevrekidis, Lu Lu, Paris Perdikaris, Sifan Wang, and Liu Yang. Physics-informed machine learning. Nature Reviews Physics, 2021.
+
+- Chi Zhao, Feifei Zhang, Wenqiang Lou, Xi Wang, and Jianyong Yang. A comprehensive review of advances in physicsinformed neural networks and their applications in complex fluid dynamics. Physics of Fluids, 2024.
+
+- Thomas M ̈uller, Alex Evans, Christoph Schied, and Alexander Keller. Instant neural graphics primitives with a multiresolution hash encoding. ACM Transactions on Graphics, 2022.
+
+- Namgyu Kang, Byeonghyeon Lee, Youngjoon Hong, Seok-Bae Yun, and Eunbyung Park. Pixel: physics-informed cell representations for fast and accurate pde solvers. In Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence, 2023.
+
+- Thomas M ̈uller, Alex Evans, Christoph Schied, and Alexander Keller. Instant neural graphics primitives with a multiresolution hash encoding. ACM Transactions on Graphics, 2022.
+
+- Ge Jin, Deyou Wang, Jian Cheng Wong, and Shipeng Li. Differentiable hash encoding for physics-informed neural networks. In 2024 IEEE Conference on Artificial Intelligence, 2024.
+
+- Haoxiang Wang, Tao Yu, Tianwei Yang, Hui Qiao, and Qionghai Dai. Neural physical simulation with multi-resolution hash grid encoding. Proceedings of the AAAI Conference on Artificial Intelligence, 2024.
+
+- Xinquan Huang and Tariq Alkhalifah. Efficient physics-informed neural networks using hash encoding. Journal of Computational Physics, 2024.
+
+- Namgyu Kang, Jaemin Oh, Youngjoon Hong, and Eunbyung Park. PIG: Physics-informed gaussians as adaptive parametric mesh representations. In The Thirteenth International Conference on Learning Representations, 2025.
+
+- Lu Lu, Pengzhan Jin, Guofei Pang, Zhongqiang Zhang, and George Em Karniadakis. Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators. Nature Machine Intelligence, 2021.
+
+- Nikola Kovachki, Zongyi Li, Burigede Liu, Kamyar Azizzadenesheli, Kaushik Bhattacharya, Andrew Stuart, and Anima Anandkumar. Neural operator: learning maps between function spaces with applications to pdes. Journal of Machine Learning Research, 2023.
+
+- Zongyi Li, Nikola Borislavov Kovachki, Kamyar Azizzadenesheli, Burigede liu, Kaushik Bhattacharya, Andrew Stuart, and Anima Anandkumar. Fourier neural operator for parametric partial differential equations. In International Conference on Learning Representations, 2021.
+
+- Nikola Kovachki, Zongyi Li, Burigede Liu, Kamyar Azizzadenesheli, Kaushik Bhattacharya, Andrew Stuart, and Anima Anandkumar. Neural operator: learning maps between function spaces with applications to pdes. Journal of Machine Learning Research, 2023.
+
+- Miguel Liu-Schiaffini, Julius Berner, Boris Bonev, Thorsten Kurth, Kamyar Azizzadenesheli, and Anima Anandkumar. Neural operators with localized integral and differential kernels. In Proceedings of the 41st International Conference on Machine Learning, 2024.
+
+- Kamyar Azizzadenesheli, Nikola Kovachki, Zongyi Li, Miguel Liu-Schiaffini, Jean Kossaifi, and Anima Anandkumar. Neural operators for accelerating scientific simulations and design. Nature Reviews Physics, 2024.
+
+- Kangjie Li and Wenjing Ye. D-FNO: A decomposed Fourier neural operator for large-scale parametric partial differential equations. Computer Methods in Applied Mechanics and Engineering, 2025.
+
+- Junwoo Cho, Seungtae Nam, Hyunmo Yang, Seok-Bae Yun, Youngjoon Hong, and Eunbyung Park. Separable physicsinformed neural networks. In Thirty-seventh Conference on Neural Information Processing Systems, 2023.
+
+- Yisi Luo, Xile Zhao, Zhemin Li, Michael K. Ng, and Deyu Meng. Low-rank tensor function representation for multidimensional data recovery. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2024.
+
+- Jianli Wang and Xile Zhao. Functional transform-based low-rank tensor factorization for multi-dimensional data recovery. In 18th European Conference on Computer Vision, 2024.
+
+- Sai Karthikeya Vemuri, Tim Bu ̈chner, Julia Niebling, and Joachim Denzler. Functional tensor decompositions for physicsinformed neural networks. In International Conference on Pattern Recognition, 2025.
+
+- Dejia Xu, Peihao Wang, Yifan Jiang, Zhiwen Fan, and Zhangyang Wang. Signal processing for implicit neural representations. In Advances in Neural Information Processing Systems, volume 35, 2022.
+
+- Sourav Pal, Harshavardhan Adepu, Clinton Wang, Polina Golland, and Vikas Singh. Implicit representations via operator learning. In Forty-first International Conference on Machine Learning, 2024.
+
+- Matthew Tancik, Pratul Srinivasan, Ben Mildenhall, Sara Fridovich-Keil, Nithin Raghavan, Utkarsh Singhal, Ravi Ramamoorthi, Jonathan Barron, and Ren Ng. Fourier features let networks learn high frequency functions in low dimensional domains. In International Conference on Neural Information Processing Systems, 2020.
+
+- Sifan Wang, Xinling Yu, and Paris Perdikaris. When and why PINNs fail to train: A neural tangent kernel perspective. Journal of Computational Physics, 2022.
+
+- Andrea Bonfanti, Giuseppe Bruno, and Cristina Cipriani. The challenges of the nonlinear regime for physics-informed neural networks. In Advances in Neural Information Processing Systems, volume 37, 2024.
+
+- Mike Nguyen and Nicole M ̈ucke. Optimal convergence rates for neural operators. ArXiv:2412.17518, 2025.
+
+- Sven Dummer, Nicola Strisciuglio, and Christoph Brune. Rda-inr: Riemannian diffeomorphic autoencoding via implicit neural representations. SIAM Journal on Imaging Sciences, 2024.
+
+
 ## Medical Imaging and Bioinformatic
 
+- Yisi Luo, Xile Zhao, Kai Ye, and Deyu Meng. Stinr: Deciphering spatial transcriptomics via implicit neural representation. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2025.
+
+- Vivien Marx. Method of the year: spatially resolved transcriptomics. Nature Methods, 2021.
+
+- Michal Byra, Charissa Poon, Tomomi Shimogori, and Henrik Skibbe. Implicit neural representations for joint decomposition and registration of gene expression images in the marmoset brain. In Medical Image Computing and Computer Assisted Intervention, 2023.
+
+- Amirali Molaei, Amirhossein Aminimehr, Armin Tavakoli, Amirhossein Kazerouni, Bobby Azad, Reza Azad, and Dorit Merhof. Implicit neural representation in medical imaging: A comparative survey. In Proceedings of the IEEE/CVF International Conference on Computer Vision Workshops, 2023.
+
+- Albert W. Reed, Hyojin Kim, Rushil Anirudh, K. Aditya Mohan, Kyle Champley, Jingu Kang, and Suren Jayasuriya. Dynamic ct reconstruction from limited views with implicit neural representations and parametric motion fields. In 2021 IEEE/CVF International Conference on Computer Vision, 2021.
+
+- Edward T. Reehorst and Philip Schniter. Regularization by denoising: Clarifications and new interpretations. IEEE Transactions on Computational Imaging, 2019.
+
+- Vasiliki Sideri-Lampretsa, Julian McGinnis, Huaqi Qiu, Magdalini Paschali, Walter Simson, and Daniel Rueckert. SINR: Spline-enhanced implicit neural representation for multi-modal registration. In International Conference on Medical Imaging with Deep Learning, 2024.
+
+- Tianci Song, Charles Broadbent, and Rui Kuang. GNTD: reconstructing spatial transcriptomes with graph-guided neural tensor decomposition informed by spatial and functional relations. Nature Communications, 2023.
+
+- Yu Sun, Jiaming Liu, Mingyang Xie, Brendt Wohlberg, and Ulugbek S. Kamilov. Coil: Coordinate-based internal learning for tomographic imaging. IEEE Transactions on Computational Imaging, 2021.
+
+- Romain Vo, Julie Escoda, Caroline Vienne, and E ́tienne Decencie`re. Neural field regularization by denoising for 3d sparseview x-ray computed tomography. In 2024 International Conference on 3D Vision, 2024.
+
+- Jelmer M Wolterink, Jesse C Zwienenberg, and Christoph Brune. Implicit neural representations for deformable image registration. In Proceedings of The 5th International Conference on Medical Imaging with Deep Learning, volume 172, 2022.
+
+- Qing Wu, Chenhe Du, Xuanyu Tian, Jingyi Yu, Yuyao Zhang, and Hongjiang Wei. Moner: Motion correction in undersampled radial MRI with unsupervised neural representation. In The Thirteenth International Conference on Learning Representations, 2025.
+
+- Qing Wu, Yuwei Li, Yawen Sun, Yan Zhou, Hongjiang Wei, Jingyi Yu, and Yuyao Zhang. An arbitrary scale super-resolution approach for 3d mr images via implicit neural representation. IEEE Journal of Biomedical and Health Informatics, 2023.
+
+- Qing Wu, Yuwei Li, Lan Xu, Ruiming Feng, Hongjiang Wei, Qing Yang, Boliang Yu, Xiaozhao Liu, Jingyi Yu, and Yuyao Zhang. Irem: High-resolution magnetic resonance image reconstruction via implicit neural representation. In Medical Image Computing and Computer Assisted Intervention, 2021.
+
+- Hongze Yu, Jeffrey A. Fessler, and Yun Jiang. Bilevel optimized implicit neural representation for scan-specific accelerated mri reconstruction. Arxiv: 2502.21292, 2025.
+
+- Ellen D. Zhong, Tristan Bepler, Joseph H. Davis, and Bonnie Berger. Reconstructing continuous distributions of 3d protein structure from cryo-em images. In International Conference on Learning Representations, 2020.
+
+- Qingtian Zhu, Yumin Zheng, Yuling Sang, Yifan Zhan, Ziyan Zhu, Jun Ding, and Yinqiang Zheng. Suica: Learning super-high dimensional sparse implicit neural representations for spatial transcriptomics. Arxiv: 2412.01124, 2024.
+
+- Veronika A. Zimmer, Kerstin Hammernik, Vasiliki Sideri-Lampretsa, Wenqi Huang, Anna Reithmeir, Daniel Rueckert, and Julia A. Schnabel. Towards generalised neural implicit representations for image registration. In Medical Image Computing and Computer Assisted Intervention, 2024.
+
+- Uthsav Chitra, Brian J. Arnold, Hirak Sarkar, Kohei Sanno, Cong Ma, Sereno Lopez-Darwin, and Benjamin J. Raphael. Mapping the topography of spatial gene expression with interpretable deep learning. Nature Methods, 2025.
+
+- Jiayue Chu, Chenhe Du, Xiyue Lin, Xiaoqun Zhang, Lihui Wang, Yuyao Zhang, and Hongjiang Wei. Highly accelerated mri via implicit neural representation guided posterior sampling of diffusion models. Medical Image Analysis, 2025.
+
+- Regev Cohen, Michael Elad, and Peyman Milanfar. Regularization by denoising via fixed-point projection (RED-PRO). SIAM Journal on Imaging Sciences, 2021.
+
+- Berk Iskender, Sushan Nakarmi, Nitin Daphalapurkar, Marc L. Klasky, and Yoram Bresler. Rsr-nf: Neural field regularization by static restoration priors for dynamic imaging. Arxiv: 2503.10015, 2025.
+
+- Shang Li, Kuo Gai, Kangning Dong, Yiyang Zhang, and Shihua Zhang. High-density generation of spatial transcriptomics with stage. Nucleic Acids Research, 2024.
+
+
 ## Geosciences and Remote Sensing
+
+- Kaiwei Zhang, Dandan Zhu, Xiongkuo Min, and Guangtao Zhai. Implicit neural representation learning for hyperspectral image super-resolution. IEEE Transactions on Geoscience and Remote Sensing, 2023.
+
+- Huan Chen, Wangcai Zhao, Tingfa Xu, Guokai Shi, Shiyun Zhou, Peifu Liu, and Jianan Li. Spectral-wise implicit neural representation for hyperspectral image reconstruction. IEEE Transactions on Circuits and Systems for Video Technology, 2024.
+
+- Ge Meng, Jingjia Huang, Yingying Wang, Zhenqi Fu, Xinghao Ding, and Yue Huang. Progressive high-frequency reconstruction for pan-sharpening with implicit neural representation. In Proceedings of the AAAI Conference on Artificial Intelligence, 2024.
+
+- Guochao Chen, Jiangtao Nie, Wei Wei, Lei Zhang, and Yanning Zhang. Arbitrary-scale hyperspectral image super-resolution from a fusion perspective with spatial priors. IEEE Transactions on Geoscience and Remote Sensing, 2024.
+
+- Yu-Jie Liang, Zihan Cao, Shangqi Deng, Hong-Xia Dou, and Liang-Jian Deng. Fourier-enhanced implicit neural fusion network for multispectral and hyperspectral image fusion. In Advances in Neural Information Processing Systems , 2024.
+
+- Ting Wang, Jizhou Li, Michael K. Ng, and Chao Wang. Nonnegative matrix functional factorization for hyperspectral unmixing with nonuniform spectral sampling. IEEE Transactions on Geoscience and Remote Sensing, 2024.
+
+- Wenbin Gao, Dawei Liu, Wenchao Chen, Mauricio D. Sacchi, and Xiaokai Wang. NeRSI: Neural implicit representations for 5d seismic data interpolation. Geophysics, 2025.
+
+- Shengrui Wang, Yisi Luo, Sanfu Li, Jiangjun Peng, and Bangyu Wu. Efficient seismic random noise attenuation via kan-empowered neural low-rank representation. IEEE Transactions on Geoscience and Remote Sensing, 2025.
+
+- Jian Sun, Kristopher Innanen, Tianze Zhang, and Daniel Trad. Implicit seismic full waveform inversion with deep neural representation. Journal of Geophysical Research: Solid Earth, 2023.
+
+- Bo Du, Jian Sun, Anqi Jia, Ning Wang, and Huaishan Liu. Physics-informed robust and implicit full waveform inversion without prior and low-frequency information. IEEE Transactions on Geoscience and Remote Sensing, 2024.
+
+- Xiaoduo Pan, Deliang Chen, Baoxiang Pan, Xiaozhong Huang, Kun Yang, Shilong Piao, Tianjun Zhou, Yongjiu Dai, Fahu Chen, and Xin Li. Evolution and prospects of earth system models: Challenges and opportunities. Earth-Science Reviews, 2025.
+
