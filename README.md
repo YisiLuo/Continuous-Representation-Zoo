@@ -211,12 +211,7 @@ Systems, 2023.
 
 - Gizem Yu ̈ce, Guillermo Ortiz-Jim ́enez, Beril Besbinar, and Pascal Frossard. A structured dictionary perspective on implicit neural representations. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2022.
 
-- T Mitchell Roddenberry, Vishwanath Saragadam, Maarten V. de Hoop, and Richard Baraniuk. Implicit neural representations and the algebra of complex wavelets. In The Twelfth International Conference on Learning Representations, 2024
-
-- Tamara G. Kolda and Brett W. Bader. Tensor decompositions and applications. SIAM Review, 2009
-
-
-- Ruofan Liang, Hongyi Sun, and Nandita Vijaykumar. CoordX: Accelerating implicit neural representation with a split MLP architecture. In International Conference on Learning Representations, 2022.
+- T Mitchell Roddenberry, Vishwanath Saragadam, Maarten V. de Hoop, and Richard Baraniuk. Implicit neural representations and the algebra of complex wavelets. In The Twelfth International Conference on Learning Representations, 2024.
 
 - Yisi Luo, Xile Zhao, Zhemin Li, Michael K. Ng, and Deyu Meng. Low-rank tensor function representation for multi-dimensional data recovery. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2024.
 
@@ -232,25 +227,11 @@ Systems, 2023.
 
 - Dejia Xu, Peihao Wang, Yifan Jiang, Zhiwen Fan, and Zhangyang Wang. Signal processing for implicit neural representations. In Advances in Neural Information Processing Systems, 2022.
 
-
-
 ## Generalization and Convergence
-
-- Kexuan Shi, Xingyu Zhou, and Shuhang Gu. Improved implicit neural representation with fourier reparameterized training. In 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2024.
-
-- Matthew Tancik, Pratul Srinivasan, Ben Mildenhall, Sara Fridovich-Keil, Nithin Raghavan, Utkarsh Singhal, Ravi Ramamoorthi, Jonathan Barron, and Ren Ng. Fourier features let networks learn high frequency functions in low dimensional
-domains. In International Conference on Neural Information Processing Systems, 2020.
 
 - Arthur Jacot, Franck Gabriel, and Cl´ement Hongler. Neural tangent kernel: convergence and generalization in neural networks. In Proceedings of the 32nd International Conference on Neural Information Processing Systems, 2018.
 
 - Sanjeev Arora, Simon Du, Wei Hu, Zhiyuan Li, and Ruosong Wang. Fine-grained analysis of optimization and generalization for overparameterized two-layer neural networks. In Proceedings of the 36th International Conference on Machine Learning, 2019.
-
-- Zhen Liu, Hao Zhu, Qi Zhang, Jingde Fu, Weibing Deng, Zhan Ma, Yanwen Guo, and Xun Cao. Finer: Flexible spectral-bias tuning in implicit neural representation by variableperiodic activation functions. In 2024 IEEE/CVF Conference on
-Computer Vision and Pattern Recognition, 2024.
-
-- Vincent Sitzmann, Julien Martel, Alexander Bergman, David Lindell, and Gordon Wetzstein. Implicit neural representations with periodic activation functions. In International Conference on Neural Information Processing Systems, 2020.
-
-- Dhananjaya Jayasundara, Heng Zhao, Demetrio Labate, and Vishal M. Patel. PIN: Prolate spheroidal wave function-based implicit neural representations. In The Thirteenth International Conference on Learning Representations, 2025.
 
 - Sanjeev Arora, Simon S. Du, Wei Hu, Zhiyuan Li, Ruslan Salakhutdinov, and Ruosong Wang. On exact computation with an infinitely wide neural net. In Proceedings of the 33rd International Conference on Neural Information Processing
 Systems, 2019.
@@ -281,7 +262,7 @@ Learning Representations, 2025.
 - Sanjeev Arora, Nadav Cohen, Wei Hu, and Yuping Luo. Implicit regularization in deep matrix factorization. In Proceedings
 of the 33rd International Conference on Neural Information Processing Systems, 2019.
 
-- Noam Razin, Asaf Maman, and Nadav Cohen. Implicit regularization in hierarchical tensor factorization and deep convolu-
+- Noam Razin, Asaf Maman, and Nadav Cohen. Implicit regularization in hierarchical tensor factorization and deep convolutional-
 tional neural networks. In Proceedings of the 39th International Conference on Machine Learning, 2022.
 
 - Suriya Gunasekar, Blake E Woodworth, Srinadh Bhojanapalli, Behnam Neyshabur, and Nati Srebro. Implicit regularization in matrix factorization. In Advances in Neural Information Processing Systems, 2017.
@@ -290,11 +271,11 @@ tional neural networks. In Proceedings of the 39th International Conference on M
 
 - Kais Hariz, Hachem Kadri, Stephane Ayache, Maher Moakher, and Thierry Artieres. Implicit regularization with polynomial growth in deep tensor factorization. In Proceedings of the 39th International Conference on Machine Learning, 2022.
 
-- Kais Hariz, Hachem Kadri, St´ephane Ayache, Maher Moakher, and Thierry Arti`eres. Implicit regularization in deep tucker factorization: Low-rankness via structured sparsity. In International Conference on Artificial Intelligence and Statistics, 2024.
+- Kais Hariz, Hachem Kadri, St´ephane Ayache, Maher Moakher, and Thierry Arti`eres. Implicit regularization in deep Tucker factorization: Low-rankness via structured sparsity. In International Conference on Artificial Intelligence and Statistics, 2024.
 
 - Zhiwei Bai, Jiajie Zhao, and Yaoyu Zhang. Connectivity shapes implicit regularization in matrix factorization models for matrix completion. In The Thirty-eighth Annual Conference on Neural Information Processing Systems, 2024.
 
-- Shuo Xie and Zhiyuan Li. Implicit bias of adamw: $\ell_\infty$-norm constrained optimization. In Proceedings of the 41st International Conference on Machine Learning, 2024.
+- Shuo Xie and Zhiyuan Li. Implicit bias of AdamW: $\ell_\infty$-norm constrained optimization. In Proceedings of the 41st International Conference on Machine Learning, 2024.
 
 # Applications
 
