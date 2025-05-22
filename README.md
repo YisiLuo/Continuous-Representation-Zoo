@@ -215,7 +215,6 @@ Systems, 2023.
 
 - Tamara G. Kolda and Brett W. Bader. Tensor decompositions and applications. SIAM Review, 2009
 
-- Michael Griebel and Guanglian Li. On the decay rate of the singular values of bivariate functions. SIAM Journal on Numerical Analysis, 2018.
 
 - Ruofan Liang, Hongyi Sun, and Nandita Vijaykumar. CoordX: Accelerating implicit neural representation with a split MLP architecture. In International Conference on Learning Representations, 2022.
 
@@ -272,9 +271,6 @@ Processing Systems Workshop on Optimization for Machine Learning, 2022.
 - Samuel Audia, Soheil Feizi, Matthias Zwicker, and Dinesh Manocha. How learnable grids recover fine detail in low dimensions: A neural tangent kernel analysis of multigrid parametric encodings. In The Thirteenth International Conference on
 Learning Representations, 2025.
 
-- Zhen Liu, Hao Zhu, Qi Zhang, Jingde Fu, Weibing Deng, Zhan Ma, Yanwen Guo, and Xun Cao. Finer: Flexible spectral-bias tuning in implicit neural representation by variableperiodic activation functions. In 2024 IEEE/CVF Conference on
-Computer Vision and Pattern Recognition, 2024.
-
 - Andrea Bonfanti, Giuseppe Bruno, and Cristina Cipriani. The challenges of the nonlinear regime for physics-informed neural networks. In Advances in Neural Information Processing Systems, 2024.
 
 - Mike Nguyen and Nicole M¨ucke. Optimal convergence rates for neural operators. ArXiv:2412.17518, 2025.
@@ -298,7 +294,7 @@ tional neural networks. In Proceedings of the 39th International Conference on M
 
 - Zhiwei Bai, Jiajie Zhao, and Yaoyu Zhang. Connectivity shapes implicit regularization in matrix factorization models for matrix completion. In The Thirty-eighth Annual Conference on Neural Information Processing Systems, 2024.
 
-- Shuo Xie and Zhiyuan Li. Implicit bias of adamw: $\ell^\infty$-norm constrained optimization. In Proceedings of the 41st International Conference on Machine Learning, 2024.
+- Shuo Xie and Zhiyuan Li. Implicit bias of adamw: $\ell_\infty$-norm constrained optimization. In Proceedings of the 41st International Conference on Machine Learning, 2024.
 
 # Applications
 
