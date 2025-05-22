@@ -193,6 +193,113 @@ Systems, 2023.
     <img src="imgs/theory.png" width="100%">
 </p>
 
+## Approximation and Representation Theory
+
+- Alex Gorodetsky, Sertac Karaman, and Youssef Marzouk. A continuous analogue of the tensor-train decomposition. Computer Methods in Applied Mechanics and Engineering, 2019.
+
+- Michael Griebel and Guanglian Li. On the decay rate of the singular values of bivariate functions. SIAM Journal on Numerical Analysis, 2018.
+
+- Rungang Han, Pixu Shi, and Anru R. Zhang and. Guaranteed functional tensor singular value decomposition. Journal of the American Statistical Association, 2024.
+
+- Behnam Hashemi and Lloyd N. Trefethen. Chebfun in three dimensions. SIAM Journal on Scientific Computing, 2017.
+
+- S.W. Ellacott. Aspects of the numerical analysis of neural networks. Acta Numerica, 1994.
+
+- Kurt Hornik, Maxwell Stinchcombe, and Halbert White. Multilayer feedforward networks are universal approximators. Neural Networks, 1989.
+
+- Gerlind Plonka, Daniel Potts, Gabriele Steidl, and Manfred Tasche. Numerical Fourier Analysis, chapter 7, pages 235–259. John Wiley & Sons, Ltd, 2020.
+
+- Gizem Yu ̈ce, Guillermo Ortiz-Jim ́enez, Beril Besbinar, and Pascal Frossard. A structured dictionary perspective on implicit neural representations. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2022.
+
+- T Mitchell Roddenberry, Vishwanath Saragadam, Maarten V. de Hoop, and Richard Baraniuk. Implicit neural representations and the algebra of complex wavelets. In The Twelfth International Conference on Learning Representations, 2024
+
+- Tamara G. Kolda and Brett W. Bader. Tensor decompositions and applications. SIAM Review, 2009
+
+- Michael Griebel and Guanglian Li. On the decay rate of the singular values of bivariate functions. SIAM Journal on Numerical Analysis, 2018.
+
+- Ruofan Liang, Hongyi Sun, and Nandita Vijaykumar. CoordX: Accelerating implicit neural representation with a split MLP architecture. In International Conference on Learning Representations, 2022.
+
+- Yisi Luo, Xile Zhao, Zhemin Li, Michael K. Ng, and Deyu Meng. Low-rank tensor function representation for multi-dimensional data recovery. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2024.
+
+- Andong Wang, Yuning Qiu, Mingyuan Bai, Zhong Jin, Guoxu Zhou, and Qibin Zhao. Generalized tensor decomposition for understanding multi-output regression under combinatorial shifts. In Advances in Neural Information Processing Systems, 2024.
+
+- Rungang Han, Pixu Shi, and Anru R. Zhang and. Guaranteed functional tensor singular value decomposition. Journal of the American Statistical Association, 2024.
+
+- Alex A. Gorodetsky and John D. Jakeman. Gradient-based optimization for regression in the functional tensor-train format. Journal of Computational Physics, 2018.
+
+- Julien Fageot. Variational seasonal-trend decomposition with sparse continuous-domain regularization. arXiv:2505.10486, 2025.
+
+- Sourav Pal, Harshavardhan Adepu, Clinton Wang, Polina Golland, and Vikas Singh. Implicit representations via operator learning. In Forty-first International Conference on Machine Learning, 2024.
+
+- Dejia Xu, Peihao Wang, Yifan Jiang, Zhiwen Fan, and Zhangyang Wang. Signal processing for implicit neural representations. In Advances in Neural Information Processing Systems, 2022.
+
+
+
+## Generalization and Convergence
+
+- Kexuan Shi, Xingyu Zhou, and Shuhang Gu. Improved implicit neural representation with fourier reparameterized training. In 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2024.
+
+- Matthew Tancik, Pratul Srinivasan, Ben Mildenhall, Sara Fridovich-Keil, Nithin Raghavan, Utkarsh Singhal, Ravi Ramamoorthi, Jonathan Barron, and Ren Ng. Fourier features let networks learn high frequency functions in low dimensional
+domains. In International Conference on Neural Information Processing Systems, 2020.
+
+- Arthur Jacot, Franck Gabriel, and Cl´ement Hongler. Neural tangent kernel: convergence and generalization in neural networks. In Proceedings of the 32nd International Conference on Neural Information Processing Systems, 2018.
+
+- Sanjeev Arora, Simon Du, Wei Hu, Zhiyuan Li, and Ruosong Wang. Fine-grained analysis of optimization and generalization for overparameterized two-layer neural networks. In Proceedings of the 36th International Conference on Machine Learning, 2019.
+
+- Zhen Liu, Hao Zhu, Qi Zhang, Jingde Fu, Weibing Deng, Zhan Ma, Yanwen Guo, and Xun Cao. Finer: Flexible spectral-bias tuning in implicit neural representation by variableperiodic activation functions. In 2024 IEEE/CVF Conference on
+Computer Vision and Pattern Recognition, 2024.
+
+- Vincent Sitzmann, Julien Martel, Alexander Bergman, David Lindell, and Gordon Wetzstein. Implicit neural representations with periodic activation functions. In International Conference on Neural Information Processing Systems, 2020.
+
+- Dhananjaya Jayasundara, Heng Zhao, Demetrio Labate, and Vishal M. Patel. PIN: Prolate spheroidal wave function-based implicit neural representations. In The Thirteenth International Conference on Learning Representations, 2025.
+
+- Sanjeev Arora, Simon S. Du, Wei Hu, Zhiyuan Li, Ruslan Salakhutdinov, and Ruosong Wang. On exact computation with an infinitely wide neural net. In Proceedings of the 33rd International Conference on Neural Information Processing
+Systems, 2019.
+
+- Colin Wei, Jason D. Lee, Qiang Liu, and Tengyu Ma. Regularization matters: generalization and optimization of neural nets v.s. their induced kernel. In Proceedings of the 33rd International Conference on Neural Information Processing Systems, 2019.
+
+- Zonghao Chen, Xupeng Shi, Tim G. J. Rudner, Qixuan Feng, Weizhong Zhang, and Tong Zhang. A neural tangent kernel perspective on function-space regularization in neural networks. In International Conference on Neural Information
+Processing Systems Workshop on Optimization for Machine Learning, 2022.
+
+- Zixiang Chen, Yuan Cao, Quanquan Gu, and Tong Zhang. A generalized neural tangent kernel analysis for two-layer neural networks. In Proceedings of the 34th International Conference on Neural Information Processing Systems, 2020.
+
+- Amnon Geifman, Daniel Barzilai, Ronen Basri, and Meirav Galun. Controlling the inductive bias of wide neural networks by modifying the kernel’s spectrum. Transactions on Machine Learning Research, 2024.
+
+- Shin-Fang Chng, Hemanth Saratchandran, and Simon Lucey. Preconditioners for the stochastic training of neural fields. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2025.
+
+- Ismail Alkhouri, Evan Bell, Avrajit Ghosh, Shijun Liang, Rongrong Wang, and Saiprasad Ravishankar. Understanding untrained deep models for inverse problems: Algorithms and theory. Arxiv: 2502.18612, 2025.
+
+- Samuel Audia, Soheil Feizi, Matthias Zwicker, and Dinesh Manocha. How learnable grids recover fine detail in low dimensions: A neural tangent kernel analysis of multigrid parametric encodings. In The Thirteenth International Conference on
+Learning Representations, 2025.
+
+- Zhen Liu, Hao Zhu, Qi Zhang, Jingde Fu, Weibing Deng, Zhan Ma, Yanwen Guo, and Xun Cao. Finer: Flexible spectral-bias tuning in implicit neural representation by variableperiodic activation functions. In 2024 IEEE/CVF Conference on
+Computer Vision and Pattern Recognition, 2024.
+
+- Andrea Bonfanti, Giuseppe Bruno, and Cristina Cipriani. The challenges of the nonlinear regime for physics-informed neural networks. In Advances in Neural Information Processing Systems, 2024.
+
+- Mike Nguyen and Nicole M¨ucke. Optimal convergence rates for neural operators. ArXiv:2412.17518, 2025.
+
+
+## Implicit Regularization
+
+- Sanjeev Arora, Nadav Cohen, Wei Hu, and Yuping Luo. Implicit regularization in deep matrix factorization. In Proceedings
+of the 33rd International Conference on Neural Information Processing Systems, 2019.
+
+- Noam Razin, Asaf Maman, and Nadav Cohen. Implicit regularization in hierarchical tensor factorization and deep convolu-
+tional neural networks. In Proceedings of the 39th International Conference on Machine Learning, 2022.
+
+- Suriya Gunasekar, Blake E Woodworth, Srinadh Bhojanapalli, Behnam Neyshabur, and Nati Srebro. Implicit regularization in matrix factorization. In Advances in Neural Information Processing Systems, 2017.
+
+- Noam Razin, Asaf Maman, and Nadav Cohen. Implicit regularization in hierarchical tensor factorization and deep convolutional neural networks. In Proceedings of the 39th International Conference on Machine Learning, 2022.
+
+- Kais Hariz, Hachem Kadri, Stephane Ayache, Maher Moakher, and Thierry Artieres. Implicit regularization with polynomial growth in deep tensor factorization. In Proceedings of the 39th International Conference on Machine Learning, 2022.
+
+- Kais Hariz, Hachem Kadri, St´ephane Ayache, Maher Moakher, and Thierry Arti`eres. Implicit regularization in deep tucker factorization: Low-rankness via structured sparsity. In International Conference on Artificial Intelligence and Statistics, 2024.
+
+- Zhiwei Bai, Jiajie Zhao, and Yaoyu Zhang. Connectivity shapes implicit regularization in matrix factorization models for matrix completion. In The Thirty-eighth Annual Conference on Neural Information Processing Systems, 2024.
+
+- Shuo Xie and Zhiyuan Li. Implicit bias of adamw: $\ell^\infty$-norm constrained optimization. In Proceedings of the 41st International Conference on Machine Learning, 2024.
+
 # Applications
 
 <p align="center">
