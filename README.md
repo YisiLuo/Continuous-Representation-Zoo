@@ -1,6 +1,6 @@
 # Continuous-Representation-Zoo
 
-This project summarizes the papers and studies introduced in the review: Continuous Representation Methods, Theories, and Applications: An Overview and Perspectives 📖
+This project summarizes the papers and studies introduced in the review: Continuous Representation Methods, Theories, and Applications: An Overview and Perspectives [<a href="http://export.arxiv.org/abs/2505.15222">arXiv</a>] 📖
 
 # Abstract ✨
 
