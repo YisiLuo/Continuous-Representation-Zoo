@@ -14,7 +14,7 @@ Recently, continuous representation methods emerge as novel paradigms that chara
     @article{arXiv2025Luo,
      author  = {Yisi Luo, Xile Zhao, Deyu Meng},
      title   = {Continuous Representation Methods, Theories, and Applications: An Overview and Perspectives},
-     journal = {arXiv:},
+     journal = {arXiv:2505.15222},
      year    = {2025},
     }
 
