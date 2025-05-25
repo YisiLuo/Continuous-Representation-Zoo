@@ -486,7 +486,7 @@ tional neural networks. In Proceedings of the 39th International Conference on M
 
 - Chengkang Shen, Hao Zhu, You Zhou, Yu Liu, Si Yi, Lili Dong, Weipeng Zhao, David J Brady, Xun Cao, Zhan Ma, et al. Cardiacfield: computational echocardiography for automated heart function estimation using two-dimensional echocardiography probes. European Heart Journal-Digital Health, 2025.
 
-- Chengkang Shen, Hao Zhu, You Zhou, Yu Liu, Si Yi, Lili Dong, Weipeng Zhao, David J Brady, Xun Cao, Zhan Ma, et al. Continuous 3d myocardial motion tracking via echocardiography. IEEE Transactions on Medical Imaging, 2024.
+- Chengkang Shen, Hao Zhu, You Zhou, Yu Liu, Si Yi, Lili Dong, Weipeng Zhao, David J Brady, Xun Cao, Zhan Ma, et al. Continuous 3D myocardial motion tracking via echocardiography. IEEE Transactions on Medical Imaging, 2024.
 
 
 ## Geosciences and Remote Sensing
