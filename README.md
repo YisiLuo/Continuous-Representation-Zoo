@@ -470,6 +470,20 @@ tional neural networks. In Proceedings of the 39th International Conference on M
 
 - Shang Li, Kuo Gai, Kangning Dong, Yiyang Zhang, and Shihua Zhang. High-density generation of spatial transcriptomics with stage. Nucleic Acids Research, 2024.
 
+- Renhao Liu, Yu Sun, Jiabei Zhu, Lei Tian, and Ulugbek S Kamilov. Recovery of continuous 3d refractive index maps from discrete intensity-only measurements using neural fields. Nature Machine Intelligence, 2022.
+
+- Haowen Zhou, Brandon Y Feng, Haiyun Guo, Siyu Lin, Mingshu Liang, Christopher A Metzler, and Changhuei Yang. Fourier ptychographic microscopy image stack reconstruction using implicit neural representations. Optica, 2023.
+
+- Oumeng Zhang, Haowen Zhou, Brandon Y Feng, Elin M Larsson, Reinaldo E Alcalde, Siyuan Yin, Catherine Deng, and Changhuei Yang. Single-shot volumetric fluorescence imaging with neural fields. Advanced Photonics, 2025.
+
+- Iksung Kang, Qinrong Zhang, Stella X Yu, and Na Ji. Coordinate-based neural representations for computational adaptive optics in widefield microscopy. Nature Machine Intelligence, 2024.
+
+- Brandon Y Feng, Haiyun Guo, Mingyang Xie, Vivek Boominathan, Manoj K Sharma, Ashok Veeraraghavan, and Christopher A Metzler. Neuws: Neural wavefront shaping for guidestar-free imaging through static and dynamic scattering media. Science Advances, 2023.
+
+- Ruiming Cao, Nikita S Divekar, James K Nu~nez, Srigokul Upadhyayula, and Laura Waller. Neural space time model for dynamic multi-shot imaging. Nature Methods, 2024.
+
+- Chengkang Shen, Hao Zhu, You Zhou, Yu Liu, Si Yi, Lili Dong, Weipeng Zhao, David J Brady, Xun Cao, Zhan Ma, et al. Cardiacfield: computational echocardiography for automated heart function estimation using two-dimensional echocardiography probes. European Heart Journal-Digital Health, 2025.
+
 
 ## Geosciences and Remote Sensing
 
