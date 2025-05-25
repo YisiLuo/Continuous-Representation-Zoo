@@ -470,6 +470,8 @@ tional neural networks. In Proceedings of the 39th International Conference on M
 
 - Shang Li, Kuo Gai, Kangning Dong, Yiyang Zhang, and Shihua Zhang. High-density generation of spatial transcriptomics with stage. Nucleic Acids Research, 2024.
 
+- Hao Zhu, Zhen Liu, You Zhou, Zhan Ma, and Xun Cao. Dnf: diffractive neural field for lensless microscopic imaging. Optics Express, 2022.
+
 - Renhao Liu, Yu Sun, Jiabei Zhu, Lei Tian, and Ulugbek S Kamilov. Recovery of continuous 3d refractive index maps from discrete intensity-only measurements using neural fields. Nature Machine Intelligence, 2022.
 
 - Haowen Zhou, Brandon Y Feng, Haiyun Guo, Siyu Lin, Mingshu Liang, Christopher A Metzler, and Changhuei Yang. Fourier ptychographic microscopy image stack reconstruction using implicit neural representations. Optica, 2023.
