@@ -256,6 +256,7 @@ Learning Representations, 2025.
 
 - Mike Nguyen and Nicole M¨ucke. Optimal convergence rates for neural operators. ArXiv:2412.17518, 2025.
 
+- Kexuan Shi, Hai Chen, Leheng Zhang, Shuhang Gu. Inductive Gradient Adjustment for Spectral Bias in Implicit Neural Representations, Forty-Second International Conference on Machine Learning, 2025.
 
 ## Implicit Regularization
 
@@ -398,13 +399,13 @@ tional neural networks. In Proceedings of the 39th International Conference on M
 
 - Kangjie Li and Wenjing Ye. D-FNO: A decomposed Fourier neural operator for large-scale parametric partial differential equations. Computer Methods in Applied Mechanics and Engineering, 2025.
 
-- Junwoo Cho, Seungtae Nam, Hyunmo Yang, Seok-Bae Yun, Youngjoon Hong, and Eunbyung Park. Separable physicsinformed neural networks. In Thirty-seventh Conference on Neural Information Processing Systems, 2023.
+- Junwoo Cho, Seungtae Nam, Hyunmo Yang, Seok-Bae Yun, Youngjoon Hong, and Eunbyung Park. Separable physics-informed neural networks. In Thirty-seventh Conference on Neural Information Processing Systems, 2023.
 
 - Yisi Luo, Xile Zhao, Zhemin Li, Michael K. Ng, and Deyu Meng. Low-rank tensor function representation for multidimensional data recovery. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2024.
 
 - Jianli Wang and Xile Zhao. Functional transform-based low-rank tensor factorization for multi-dimensional data recovery. In 18th European Conference on Computer Vision, 2024.
 
-- Sai Karthikeya Vemuri, Tim Bu ̈chner, Julia Niebling, and Joachim Denzler. Functional tensor decompositions for physicsinformed neural networks. In International Conference on Pattern Recognition, 2025.
+- Sai Karthikeya Vemuri, Tim Bu ̈chner, Julia Niebling, and Joachim Denzler. Functional tensor decompositions for physics-informed neural networks. In International Conference on Pattern Recognition, 2025.
 
 - Dejia Xu, Peihao Wang, Yifan Jiang, Zhiwen Fan, and Zhangyang Wang. Signal processing for implicit neural representations. In Advances in Neural Information Processing Systems, volume 35, 2022.
 
@@ -421,7 +422,7 @@ tional neural networks. In Proceedings of the 39th International Conference on M
 - Sven Dummer, Nicola Strisciuglio, and Christoph Brune. Rda-inr: Riemannian diffeomorphic autoencoding via implicit neural representations. SIAM Journal on Imaging Sciences, 2024.
 
 
-## Medical Imaging and Bioinformatic
+## Medical Imaging and Bioinformatics
 
 - Yisi Luo, Xile Zhao, Kai Ye, and Deyu Meng. Stinr: Deciphering spatial transcriptomics via implicit neural representation. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2025.
 
@@ -441,7 +442,7 @@ tional neural networks. In Proceedings of the 39th International Conference on M
 
 - Yu Sun, Jiaming Liu, Mingyang Xie, Brendt Wohlberg, and Ulugbek S. Kamilov. Coil: Coordinate-based internal learning for tomographic imaging. IEEE Transactions on Computational Imaging, 2021.
 
-- Romain Vo, Julie Escoda, Caroline Vienne, and E ́tienne Decencie`re. Neural field regularization by denoising for 3d sparseview x-ray computed tomography. In 2024 International Conference on 3D Vision, 2024.
+- Romain Vo, Julie Escoda, Caroline Vienne, and Étienne Decencière. Neural field regularization by denoising for 3d sparseview x-ray computed tomography. In 2024 International Conference on 3D Vision, 2024.
 
 - Jelmer M Wolterink, Jesse C Zwienenberg, and Christoph Brune. Implicit neural representations for deformable image registration. In Proceedings of The 5th International Conference on Medical Imaging with Deep Learning, volume 172, 2022.
 
@@ -480,13 +481,13 @@ tional neural networks. In Proceedings of the 39th International Conference on M
 
 - Guochao Chen, Jiangtao Nie, Wei Wei, Lei Zhang, and Yanning Zhang. Arbitrary-scale hyperspectral image super-resolution from a fusion perspective with spatial priors. IEEE Transactions on Geoscience and Remote Sensing, 2024.
 
-- Yu-Jie Liang, Zihan Cao, Shangqi Deng, Hong-Xia Dou, and Liang-Jian Deng. Fourier-enhanced implicit neural fusion network for multispectral and hyperspectral image fusion. In Advances in Neural Information Processing Systems , 2024.
+- Yu-Jie Liang, Zihan Cao, Shangqi Deng, Hong-Xia Dou, and Liang-Jian Deng. Fourier-enhanced implicit neural fusion network for multispectral and hyperspectral image fusion. In Advances in Neural Information Processing Systems, 2024.
 
 - Ting Wang, Jizhou Li, Michael K. Ng, and Chao Wang. Nonnegative matrix functional factorization for hyperspectral unmixing with nonuniform spectral sampling. IEEE Transactions on Geoscience and Remote Sensing, 2024.
 
-- Wenbin Gao, Dawei Liu, Wenchao Chen, Mauricio D. Sacchi, and Xiaokai Wang. NeRSI: Neural implicit representations for 5d seismic data interpolation. Geophysics, 2025.
+- Wenbin Gao, Dawei Liu, Wenchao Chen, Mauricio D. Sacchi, and Xiaokai Wang. NeRSI: Neural implicit representations for 5D seismic data interpolation. Geophysics, 2025.
 
-- Shengrui Wang, Yisi Luo, Sanfu Li, Jiangjun Peng, and Bangyu Wu. Efficient seismic random noise attenuation via kan-empowered neural low-rank representation. IEEE Transactions on Geoscience and Remote Sensing, 2025.
+- Shengrui Wang, Yisi Luo, Sanfu Li, Jiangjun Peng, and Bangyu Wu. Efficient seismic random noise attenuation via KAN-empowered neural low-rank representation. IEEE Transactions on Geoscience and Remote Sensing, 2025.
 
 - Jian Sun, Kristopher Innanen, Tianze Zhang, and Daniel Trad. Implicit seismic full waveform inversion with deep neural representation. Journal of Geophysical Research: Solid Earth, 2023.
 
